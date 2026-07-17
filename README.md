@@ -215,7 +215,7 @@ By [Infrasity-Labs](https://github.com/Infrasity-Labs)
 
 ### Browser & Automation
 
-- [realbrowser-skill](https://github.com/ceki/realbrowser-skill) - Rent real residential Chrome browsers for AI agents. MCP-native, real DevTools protocol, Python/JS SDKs, zero bot detection. *By [Ceki](https://browser.ceki.me)*
+- [realbrowser-skill](https://github.com/Ceki-me/realbrowser-skill) - Rent real residential Chrome browsers for AI agents. MCP-native, real DevTools protocol, Python/JS SDKs, zero bot detection. *By [Ceki](https://browser.ceki.me)*
 
 ## Platforms
 
